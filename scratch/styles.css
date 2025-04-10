@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(240, 121, 185);
+    color: rgb(14, 14, 14);
+    background-image: url("https://www.shutterstock.com/image-vector/set-different-palm-trees-cartoon-600nw-2471936253.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color:grey;
+}
+h1, h2{
+    text-align: center;
+}
+img{
+    border: 5px solid floralwhite;
+    padding: 5px;
+    height: 200px;
+    /* margin:auto; */
+    /* display: block; */
+}
+.rizz{
+    font-family: initial;
+    color: chartreuse;
+    border: 5px dashed red;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: blueviolet;
+}
+.rizz:hover{
+font-size: 450%;
+color: cornsilk;
+border: 5px solid cyan;
+}
+li{
+width: fit-content;
+}
+li:hover{
+text-decoration: underline;
+background-color: darkgrey;
+
+}

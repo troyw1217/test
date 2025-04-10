@@ -1,0 +1,14 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+h2, h3, .subheading{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+a:hover{
+    color: lightslategray !important;
+}
+/* h2:hover, h3:hover{
+    color: lightslategray;
+} */
+ 
